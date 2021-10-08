@@ -119,8 +119,8 @@ if __name__ == "__main__":
 
         elif 'your favourite food' in query:
             speak("chicken tandoor and biryani")   
-
-
+        elif 'your favoutrite tv series' in query:
+            spear("Mr Robot")
         elif 'who are you' in query:
             speak("sasmit's personal assistant")
         
